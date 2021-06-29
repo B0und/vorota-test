@@ -1,0 +1,5 @@
+Sitemap: http://www.servis2002.ru/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+Crawl-Delay: 30
